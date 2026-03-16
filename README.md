@@ -6,7 +6,7 @@
       <td align="left" valign="top" width="50%" style="font-family:Georgia, 'Lucida Handwriting', cursive;">
         <h1 style="margin-bottom: 10px;">Hi There I'm Ayaan Syed!</h1>
         <h4 style="margin: 0; font-family:inherit;">• SELF TAUGHT FULL STACK DEVELOPER</h4>
-        <p style="margin: 10px 0; font-family:inherit;">🧠 I'm a passionate Full-Stack Developer + Prompt Engineer, <strong>With 2 Years Of Experience</strong></p>
+        <p style="margin: 10px 0; font-family:inherit;">🧠 I'm a passionate Full-Stack Developer + Prompt Engineer, <strong>With 3 Years Of Experience</strong></p>
         <p style="margin: 10px 0; font-family:inherit;">🌐 <a href="https://ayaan-syed.vercel.app" target="_blank"><strong>View my portfolio</strong></a></p>
       </td>
       <td align="right" valign="top" width="50%">
